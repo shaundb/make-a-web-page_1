@@ -1,0 +1,53 @@
+
+a:link, a:active  {
+    color: #E30574;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #C20061;
+     text-decoration: none;
+}
+
+
+a:hover {
+    color: #FF82C1;
+     text-decoration: none;
+}
+
+
+body{
+
+	padding: 10px 20px;
+	font-family: 'Century Gothic';
+	font-size: 12px;
+	max-width: 1600px;
+	margin:0 auto;
+}
+
+.title{
+	font-size: 22px;
+	font-weight:lighter; 
+	color: #CF1170;
+	text-align: center;
+	padding:1px;
+
+}
+
+.banner{
+	background-color: #1F9BDE;
+	font-size:18px;
+	color: white;
+	padding: 4px 4px 0px 4px;
+	margin-top: 25px;
+}
+
+.section{
+	font-weight: bold;
+	font-size: 14px;
+	color: #1F9BDE;
+}
+
+.description {
+	background-color:#E8F7FF;
+}
